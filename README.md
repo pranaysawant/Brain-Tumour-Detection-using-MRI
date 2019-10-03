@@ -8,6 +8,8 @@ There are some Brain MRI images of some patients some patients have **Brain Tumo
 
 ## 1.2 Data
 
+The dataset contains 2 folders: yes and no which contains 253 Brain MRI Images. The folder yes contains 155 Brain MRI Images that are tumorous and the folder no contains 98 Brain MRI Images that are non-tumorous.
+
 Data is collected from Kaggle.com.
 https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
 
