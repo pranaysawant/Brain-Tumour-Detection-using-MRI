@@ -26,5 +26,5 @@ https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
 ## Model Evalution
 - Log Loss : 0.33
 - Accuracy : 90%
-- FNR : 0.04
-- FPR : 0.20
+- FNR (False Negative Rate): 0.04
+- FPR (False Positive Rate): 0.20
